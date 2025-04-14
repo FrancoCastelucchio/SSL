@@ -1,1 +1,3 @@
-TP N 0
+compilador gcc 
+Versión 14.1.0
+C17
